@@ -1,4 +1,4 @@
-# Sensor Node for Polyhouse Monitoring and Control  
+# Sensor Node for monitoring the outside environment of polyhouse
 
 This project involves creating a **sensor node outside a polyhouse** to monitor and compare environmental parameters outside and inside the polyhouse for optimal climate control in controlled climate agriculture. The system ensures efficient data collection, transmission, and real-time environment regulation using multiple sensors and a NodeMCU microcontroller.  
 
