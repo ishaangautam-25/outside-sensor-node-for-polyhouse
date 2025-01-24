@@ -66,8 +66,8 @@ const char* ssid = "IIT-Mandi-Wifi MIC";
 const char* password = "wifi@iitMIC";
 
 // ThingSpeak settings
-unsigned long myChannelNumber = 2597577;  // Replace with your channel number
-const char* myWriteAPIKey = "9XYOI0XHDJ67JI0R";  // Replace with your Write API Key
+unsigned long myChannelNumber = 2597577;  
+const char* myWriteAPIKey = "9XYOI0XHDJ67JI0R";  
 
 // LED pin
 #define LED_PIN D0
@@ -248,5 +248,5 @@ void loop() {
   // Turn off LED after data is sent
   digitalWrite(LED_PIN, LOW);
 
-  delay(1000);  // Wait 10 seconds to update the channel again
+  delay(1000);  // Wait 1 second to update the channel again
 }
