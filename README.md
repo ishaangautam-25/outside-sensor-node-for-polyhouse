@@ -11,7 +11,7 @@ This project involves creating a **sensor node outside a polyhouse** to monitor 
 5. [Sensor Integration and Implementation](#sensor-integration-and-implementation)  
 6. [Environmental Control Features](#environmental-control-features)  
 7. [Usage Instructions](#usage-instructions)  
-8. [License](#license)  
+
 
 ---
 
