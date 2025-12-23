@@ -361,17 +361,22 @@ GPIO (D0)      →    Data Logging LED (via 220Ω resistor)
    - Check sensor readings via Serial Monitor
    - Confirm data logging LED blinks during transmission
 
-![Circuit Diagram](circuit_diagram.png)
-*Upload circuit_diagram.png to your repository root*
 
-![Breadboard Implementation](breadboard_setup.png)
-*Upload breadboard_setup.png to your repository root*
 
-![Final PCB](final_pcb.png)
-*Upload final_pcb.png to your repository root*
+#### CIrcuit Schematic
+![Circuit Diagram](outside_schematic.png)
 
-![Complete Sensor Node](complete_sensor_node.png)
-*Upload complete_sensor_node.png to your repository root*
+
+#### Breadboard Implementation 
+![Breadboard Implementation](breadboard_assembly.jpg)
+
+#### Finalized Circuit
+![Final PCB](perforated_board_assembly.jpg)
+
+
+#### Finalized Setup
+![Complete Sensor Node](Complete_setup.jpg)
+
 
 ---
 
@@ -627,13 +632,6 @@ All sensor data is uploaded to ThingSpeak cloud platform for real-time visualiza
 | YF-S201 (×2) | 15mA | 20mA |
 | **Total** | ~115mA | ~345mA |
 
-### Solar Power Option
-
-For remote deployment, solar charging system can be integrated:
-- 5W Solar Panel
-- 3.7V Li-ion Battery (5000mAh+)
-- TP4056 Charging Module
-- 5V Boost Converter
 
 ---
 
