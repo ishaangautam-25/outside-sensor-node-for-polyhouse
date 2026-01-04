@@ -607,14 +607,7 @@ All sensor data is uploaded to ThingSpeak cloud platform for real-time visualiza
    - Enhance photosynthesis efficiency
    - Improve crop yield and quality
 
-### Additional Applications
 
-- 🏠 **Smart Greenhouses** - Automated environment control
-- 🌿 **Hydroponic Systems** - Nutrient solution monitoring
-- 🌾 **Precision Agriculture** - Site-specific crop management
-- 🔬 **Agricultural Research** - Data collection for studies
-- 📚 **Educational Institutions** - IoT and agriculture learning
-- 🏭 **Commercial Farming** - Large-scale monitoring systems
 
 ---
 
@@ -677,28 +670,6 @@ All sensor data is uploaded to ThingSpeak cloud platform for real-time visualiza
    - Maintains ideal growing conditions
 
 ---
-
-## 🚀 Future Enhancements
-
-- [ ] Add soil moisture sensors for complete monitoring
-- [ ] Integrate weather prediction API for proactive control
-- [ ] Implement machine learning for predictive maintenance
-- [ ] Add mobile app for remote monitoring and control
-- [ ] Incorporate camera module for plant health monitoring
-- [ ] Develop automated nutrient dosing system
-- [ ] Add GPS module for multi-location farm monitoring
-- [ ] Implement edge computing for faster local decisions
-
----
-
-
----
-
-## 🙏 Acknowledgments
-
-- Dr. Tushar Jain for invaluable mentorship and guidance
-- Er. Abhisekh Behera and Er. Akash Rajput for technical support
-- IIT Mandi SCEE and P.G. Control Lab team
 
 
 ---
